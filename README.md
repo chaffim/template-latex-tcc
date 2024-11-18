@@ -1,12 +1,16 @@
-# Template TCC FGA-UnB
+# Template de TCC da FCTE-UnB
 
-Template para Trabalhos de Conclusão de Cursos (TCC) na Faculdade do
-Gama (FGA) em Latex.
+Template em LaTeX para Trabalhos de Conclusão de Cursos (TCC) 
+na Faculdade de Ciências e Tecnologias em Engenharia (FCTE) da UnB.
 
 Licenciado em Creative Commons Atribuição 3.0:
 http://creativecommons.org/licenses/by/3.0/
 
 Desenvolvido e adaptado pelo professor Edson Alves <edsomjr@gmail.com>.
+
+Atualizado e adaptado pelo professor Marcus Chaffim <chaffim@gmail.com>.
+
+
 
 ## Dependências
 Para utilizar, certifique-se de ter instalados no seu ambiente o [Docker](https://docs.docker.com/engine/install/) e o [Docker-compose](https://docs.docker.com/compose/install/).
